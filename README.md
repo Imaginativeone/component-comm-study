@@ -1,3 +1,5 @@
+See course.todo
+
 This repo is my way of clarifying how Server Components communicate with Client Components. In particular, I want to see how MS SQL Server Stored Procedures interact with my Next.js apps when using the Prisma ORM.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
