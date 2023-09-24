@@ -3,6 +3,7 @@ const HomePage = () => {
     <div>
       <h1>Home Page</h1>
       <p>Home page content</p>
+      <button className="btn btn-primary">Button</button>
     </div>
   )
 }
